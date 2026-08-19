@@ -1,3 +1,9 @@
-==================================================================
-Welcome to the documentation of customer-service-management-portal
-==================================================================
+Customer Service Management Portal
+==================================
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: csmp
+      :environment: public
