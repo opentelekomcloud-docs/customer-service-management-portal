@@ -4,7 +4,7 @@ T Cloud Public in the CSM Portal
 Overview
 --------
 
-The CSM Portal provides a range of features to help you manage your T Cloud Public services throughout
+Test The CSM Portal provides a range of features to help you manage your T Cloud Public services throughout
 their lifecycle.
 
 If you have the required user roles, the **T Cloud Public** section is available directly from the **CSM Portal home page**. After signing in, the widgets and functions available to you are displayed automatically based on your assigned permissions.

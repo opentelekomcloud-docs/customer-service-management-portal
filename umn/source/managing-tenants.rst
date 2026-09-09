@@ -1,7 +1,7 @@
 2 Managing Your T Cloud Public Tenants
 ======================================
 
-The **My T Cloud Public Tenant** widget provides a central place to view and manage the T Cloud Public tenants assigned to your organization. From this widget, you can access tenant-specific information, launch the **T Cloud Public Console**, report incidents, review incident history, and request a tenant rename.
+test The **My T Cloud Public Tenant** widget provides a central place to view and manage the T Cloud Public tenants assigned to your organization. From this widget, you can access tenant-specific information, launch the **T Cloud Public Console**, report incidents, review incident history, and request a tenant rename.
 
 ---------------------------------------------
 Accessing the My T Cloud Public Tenant Widget
