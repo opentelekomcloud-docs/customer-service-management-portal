@@ -27,7 +27,7 @@ Click the Open Details icon (↗) next to a tenant to launch the **T Cloud Publi
 .. image:: _static/images/managing-tenants_4_1.png
    :alt: Screenshot showing the Open Details icon
 
-.. image:: _static/images/managing-tenants_5_1.png
+.. image:: _static/images/image-2026-7-22_15-45-50.png
    :alt: Screenshot showing the T Cloud Public Console
 
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,7 +36,7 @@ View Tenant Information
 
 Click on the magnifying icon to see all attributes of your tenant.
 
-.. image:: _static/images/managing-tenants_6_1.png
+.. image:: _static/images/managing-tenants_8_1.png
    :alt: Screenshot of the tenant attributes view
 
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ Review Incident History
 
 View incidents that have previously been reported for the selected tenant.
 
-.. image:: _static/images/managing-tenants_6_2.png
+.. image:: _static/images/managing-tenants_7_1.png
    :alt: Screenshot of the incident history view
 
 ~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ Report an Incident
 
 Create a new support incident for the selected tenant. When you create an incident from the **My T Cloud Public Tenant** widget, the tenant is automatically associated with the incident, reducing manual input. For more information, see **Reporting and Managing Incidents**.
 
-.. image:: _static/images/managing-tenants_7_1.png
+.. image:: _static/images/managing-tenants_6_2.png
    :alt: Screenshot showing the Report an Incident action
 
 ~~~~~~~~~~~~~~~
@@ -63,5 +63,5 @@ Rename a Tenant
 
 Submit a request to assign a more meaningful name to a tenant. For detailed instructions, see **Renaming a T Cloud Public Tenant**.
 
-.. image:: _static/images/managing-tenants_8_1.png
+.. image:: _static/images/managing-tenants_6_1.png
    :alt: Screenshot showing the Rename Tenant action
