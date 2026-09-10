@@ -14,7 +14,7 @@ The following roles are contractual roles:
 
 These roles are assigned as part of your T Cloud Public service and cannot be managed through the Role Shop. If changes to these roles are required, contact your support team or update the group directly in the **eShop**.
 
-.. image:: _static/images/user-roles-permissions_33_1.png
+.. image:: _static/images/user-roles-permissions_1.png
    :alt: Screenshot showing contractual roles
 
 --------------
@@ -23,7 +23,7 @@ Manager Groups
 
 To simplify user administration, the Role Shop provides **manager groups**. Rather than assigning users to multiple individual permission groups, you can assign them to a single manager group. The user automatically receives all permissions associated with that manager group. Likewise, removing a user from the manager group automatically removes those permissions.
 
-.. image:: _static/images/user-roles-permissions_34_1.png
+.. image:: _static/images/user-roles-permissions_2.png
    :alt: Screenshot showing manager groups
 
 Commercial Administrator Manager
@@ -47,7 +47,7 @@ Managing Individual Permission Groups
 
 In addition to using manager groups, you can also manage membership of individual permission groups by selecting **Users** in the Role Shop. This allows you to grant or remove specific permissions independently of the manager groups.
 
-.. image:: _static/images/user-roles-permissions_35_1.png
+.. image:: _static/images/user-roles-permissions_3.png
    :alt: Screenshot showing individual permission group management
 
 ----------------------
@@ -56,5 +56,5 @@ Automatic Provisioning
 
 When a user is granted access to the **T Cloud Public Console**, the required provisioning is performed automatically. Once provisioning has been completed, the user can launch the **T Cloud Public Console** directly from the CSM Portal using **Single Sign-On (SSO)**.
 
-.. image:: _static/images/user-roles-permissions_36_1.png
+.. image:: _static/images/user-roles-permissions_4.png
    :alt: Screenshot showing automatic provisioning confirmation

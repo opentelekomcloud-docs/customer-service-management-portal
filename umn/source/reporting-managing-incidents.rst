@@ -26,7 +26,7 @@ You can create a support incident in two ways:
 * From the **Report an Incident** catalog item on the **CSM Portal home page**
 * From the **My T Cloud Public Tenant** widget
 
-.. image:: _static/images/reporting-managing-incidents_9_1.png
+.. image:: _static/images/reporting-managing-incidents_1.png
    :alt: Screenshot showing how to create an incident
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ The **Case Details** page allows you to:
 * Follow updates in the activity stream
 * View and download attachments
 
-.. image:: _static/images/reporting-managing-incidents_10_1.png
+.. image:: _static/images/reporting-managing-incidents_2.png
    :alt: Screenshot showing case details after submitting an incident
 
 -----------------------
@@ -98,5 +98,5 @@ From there, you can:
 * Customize the displayed columns
 * Export case information in **PDF**, **Excel**, or **CSV** format
 
-.. image:: _static/images/reporting-managing-incidents_11_1.png
+.. image:: _static/images/reporting-managing-incidents_3.png
    :alt: Screenshot showing My Lists with incidents

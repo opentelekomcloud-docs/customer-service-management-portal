@@ -15,7 +15,7 @@ Depending on your permissions, the following integrated applications may be avai
 * **Invoice History**
 * **Audit Reports**
 
-.. image:: _static/images/accessing-applications-with-ssoc_2_1.png
+.. image:: _static/images/accessing-applications_1.png
    :alt: Screenshot of integrated applications in the CSM Portal
 
 ---------------------------------
