@@ -26,8 +26,8 @@ To simplify user administration, the Role Shop provides **manager groups**. Rath
 .. image:: _static/images/user-roles-permissions_2.png
    :alt: Screenshot showing manager groups
 
-Commercial Administrator Manager
---------------------------------
+**Commercial Administrator Manager**
+------------------------------------
 
 The **Commercial Administrator Manager** group acts as a container for several business-related permission groups. By assigning a user to this manager group, the user automatically receives access to the associated portal features, including:
 
