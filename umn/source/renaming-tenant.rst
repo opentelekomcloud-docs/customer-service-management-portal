@@ -21,10 +21,10 @@ To rename a tenant:
 4. Enter the new tenant name.
 5. Submit the request.
 
-.. image:: _static/images/renaming-tenant_17_1.png
+.. image:: _static/images/renaming-tenant_1.png
    :alt: Screenshot showing the hamburger menu next to a tenant
 
-.. image:: _static/images/renaming-tenant_17_2.png
+.. image:: _static/images/renaming-tenant_2.png
    :alt: Screenshot showing the Rename Tenant option
 
 A service request is created automatically.
@@ -35,5 +35,5 @@ After Submitting the Request
 
 Once the tenant has been successfully renamed, the service request is closed automatically.
 
-.. image:: _static/images/renaming-tenant_18_1.png
+.. image:: _static/images/renaming-tenant_3.png
    :alt: Screenshot of the confirmation message
